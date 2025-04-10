@@ -1,5 +1,4 @@
-
-DROP TABLE IF EXISTS `estudiantes`;
+P TABLE IF EXISTS `estudiantes`;
 
 CREATE TABLE `estudiantes` (
   `id_estudiante` int NOT NULL AUTO_INCREMENT,
